@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ericsson.arm</groupId>
     <artifactId>module1</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>R5D01</version>
     <packaging>pom</packaging>
     <name>test module1</name>
     <url>http://maven.apache.org</url>
-    <dependencies/>
+    <dependencies />
     <build>
         <plugins>
             <plugin>
