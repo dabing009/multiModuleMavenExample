@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ericsson.arm</groupId>
     <artifactId>module1</artifactId>
-    <version>R5D02</version>
+    <version>R5D03</version>
     <packaging>jar</packaging>
     <name>test module1</name>
     <url>http://maven.apache.org</url>
